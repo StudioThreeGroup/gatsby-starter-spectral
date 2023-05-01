@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Spectral', // <title>
+  siteTitle: 'StudioThree', // <title>
   manifestName: 'Spectral',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
